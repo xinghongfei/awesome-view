@@ -60,7 +60,7 @@
 <img src="screenshots/NumberProgressBar.gif" width="70%" />
  
  2. [SmallChart](https://github.com/Idtk/SmallChart)   
- 项目包括折线图、曲线图(可填充)、柱状图、扇形图、雷达图的绘制，让你对熟练使用draw()相关类。 
+ 项目包括折线图、曲线图(可填充)、柱状图、扇形图、雷达图的绘制，让你熟练使用draw()相关类。 
  <img src="screenshots/pie.png" width="50%" />  
  3. [CircleImageView](https://github.com/hdodenhof/CircleImageView)   
   一个圆形的ImageView  
