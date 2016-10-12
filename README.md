@@ -56,7 +56,7 @@
  ##值的学习的五个自定义View开源项目
  
  1. [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)(代码家)   
- 这个项目可以让掌握如何控制view在界面中的位子
+ 这个项目可以熟练掌握如何控制view在界面中的位子
 <img src="screenshots/NumberProgressBar.gif" width="70%" />
  
  2. [SmallChart](https://github.com/Idtk/SmallChart)   
