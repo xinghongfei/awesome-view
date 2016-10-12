@@ -10,8 +10,8 @@
 ####一.View绘制机制
 >掌握onMeasure,onLayout,onDraw及相关类的使用。
 
-1. 绘制机制
-`view的绘制流程讲的最好的就是《Android开发艺术探究》这本书了，如果你还不是一名高工，想从事Android开发，这本书必备。不过还是给大家最近一篇，相信很多人已经看过了`
+1. 绘制机制  
+`view的绘制流程讲的最好的就是《Android开发艺术探究》这本书了，如果你还不是一名高工，想从事Android开发，这本书必备。不过还是给大家最近一篇，相信很多人已经看过了`  
 [公共技术点之 View 绘制流程](http://a.codekk.com/detail/Android/lightSky/公共技术点之%20View%20绘制流程)
 2. 相关类的使用，主要是指onDraw()方法里，Paint、Cavan、Matrix等类的使用。  
 
