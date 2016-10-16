@@ -13,7 +13,7 @@
 1. 绘制机制  
 `view的绘制流程讲的最好的就是《Android开发艺术探究》这本书了，如果你还不是一名高工，想从事Android开发，这本书必备。不过还是给大家推荐一篇博文，相信很多人已经看过了`  
 [公共技术点之 View 绘制流程](http://a.codekk.com/detail/Android/lightSky/公共技术点之%20View%20绘制流程)
-2. 相关类的使用，主要是指onDraw()方法里，Paint、Cavan、Matrix等类的使用。  
+2. 相关类的使用，主要是在onDraw()方法里，Paint、Cavan、Matrix等类的使用。  
 
   ####[GcsSloop---自定义View系列](https://github.com/GcsSloop)     
     * [安卓自定义View基础 - 坐标系](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B01%5DCoordinateSystem.md)
