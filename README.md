@@ -7,7 +7,7 @@
 3. 属性动画，因为属性动画核心是对数值的变化，使用属性动画对值View做动画操作。  
 4. 相关手势类。
 
-####一.View绘制机制
+#### 一.View绘制机制
 >掌握onMeasure,onLayout,onDraw及相关类的使用。
 
 1. 绘制机制  
@@ -44,16 +44,16 @@
  *  [自定义控件其实很简单2/3](http://blog.csdn.net/column/details/androidcustomview.html)
  *  [自定义控件其实很简单3/4](http://blog.csdn.net/column/details/androidcustomview.html)
 
- ####二.事件传递机制
+ #### 二.事件传递机制
  >掌握dispathTouchEvent(),onInterceptEvent(),onTouchEvent()三者的相关逻辑.  
  
  `讲的最好的，最易懂的就是《Android群英传》，这里也为大家推荐一篇博客，还是出自codeKK`
  
  [公共技术点之 View 事件传递](http://a.codekk.com/detail/Android/Trinea/公共技术点之%20View%20事件传递)
- ####三.属性动画
+ #### 三.属性动画
  [公共技术点之 Android 动画基础](http://a.codekk.com/detail/Android/lightSky/公共技术点之%20Android%20动画基础)
  
- ##值的学习的五个自定义View开源项目
+ ## 值的学习的五个自定义View开源项目
  
  1. [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)(代码家)   
  这个项目可以熟练掌握如何控制view在界面中的位子
